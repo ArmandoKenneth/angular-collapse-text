@@ -45,7 +45,7 @@ Add the `collapse-text` attribute to the element you want to use as the anchor f
 
 **4. Attributes**
 
-Here is a list of the attributes that this library accepts. Some of them are optional and if no values is provided, a default setting will be used.
+Here is a list of the attributes that this library accepts. Some of them are optional and if no values are provided, a default setting will be used.
 
 Attribute  | Required | Description | Default value
 ------------- | ------------- | ------------- | -------------
