@@ -1,0 +1,26 @@
+{
+  "name": "angular-collapse-text",
+  "version": "0.0.1",
+  "authors": [
+    "Armando Rocha <armando.kenneth@gmail.com>"
+  ],
+  "description": "Simple Angular directive to add the Read more/less action to a piece of text",
+  "main": "src/angular-collapse-text.js",
+  "keywords": [
+    "angular",
+    "collapse",
+    "text"
+  ],
+  "license": "MIT",
+  "homepage": "github.com/ArmandoKenneth",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.5.4"
+  }
+}
