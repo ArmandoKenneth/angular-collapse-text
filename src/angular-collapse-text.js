@@ -1,5 +1,5 @@
 /**
-* angular-collapse-text v0.0.1
+* angular-collapse-text v0.1.0
 * 2017 Armando Rocha https://github.com/ArmandoKenneth
 * Simple Angular directive that adds the "Read more/less" action to a piece of text
 * MIT License, http://www.opensource.org/licenses/MIT
