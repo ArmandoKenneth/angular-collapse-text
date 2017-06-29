@@ -5,7 +5,7 @@
 * MIT License, http://www.opensource.org/licenses/MIT
 */
 angular.module('ark.collapse-text', [])
-.directive('collapseText', function ($compile) {
+.directive('collapseText', ['$compile', function($compile) { 
 	return {
 		restrict: 'A',
 		link: function (scope, element, attrs) {
@@ -70,4 +70,4 @@ angular.module('ark.collapse-text', [])
 			});
 		}
 	};
-});
+}]);
