@@ -1,6 +1,5 @@
 {
   "name": "angular-collapse-text",
-  "version": "0.0.1",
   "authors": [
     "Armando Rocha <armando.kenneth@gmail.com>"
   ],
@@ -15,10 +14,7 @@
   "homepage": "github.com/ArmandoKenneth",
   "ignore": [
     "**/.*",
-    "node_modules",
-    "bower_components",
-    "test",
-    "tests"
+    "bower_components"
   ],
   "dependencies": {
     "angular": "^1.5.4"
